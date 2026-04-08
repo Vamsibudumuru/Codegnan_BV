@@ -87,10 +87,10 @@ def prime_num(num,count):
 prime_num(num=9,count=0)
 prime_num(num = 47,count = 0)'''
 
-
+'''
 def any(num,num_3,num_2):
     print(f"num = {num},num_2= num_2= {num_2}, num_3= {num_3}")
-any(num_2=7, num=0, num_3 = 100)    
+any(num_2=7, num=0, num_3 = 100)    '''
 
 
 
